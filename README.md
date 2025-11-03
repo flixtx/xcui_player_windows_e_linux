@@ -30,7 +30,7 @@ MPV
 FFplay
 MPlayer
 
-🚀 Como Usar:
+#🚀 Como Usar:
 bash# 1. Tornar executável
 chmod +x xtream_player.sh
 
