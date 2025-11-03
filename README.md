@@ -15,7 +15,8 @@ Bash 4.0+
 Interface de terminal interativa
 
 📦 Dependências Necessárias:
-bash# Ubuntu/Debian
+bash# 
+Ubuntu/Debian
 sudo apt install jq curl vlc
 
 # Fedora
@@ -31,7 +32,8 @@ FFplay
 MPlayer
 
 #🚀 Como Usar:
-bash# 1. Tornar executável
+bash
+# 1. Tornar executável
 chmod +x xtream_player.sh
 
 # 2. Executar
